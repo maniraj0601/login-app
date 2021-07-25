@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/maniraj0601/login-app/static/css/main.178262c7.chunk.css",
+    "main.js": "/maniraj0601/login-app/static/js/main.0a3491d6.chunk.js",
+    "main.js.map": "/maniraj0601/login-app/static/js/main.0a3491d6.chunk.js.map",
+    "runtime-main.js": "/maniraj0601/login-app/static/js/runtime-main.4c03aad8.js",
+    "runtime-main.js.map": "/maniraj0601/login-app/static/js/runtime-main.4c03aad8.js.map",
+    "static/css/2.4be38407.chunk.css": "/maniraj0601/login-app/static/css/2.4be38407.chunk.css",
+    "static/js/2.47cbaff1.chunk.js": "/maniraj0601/login-app/static/js/2.47cbaff1.chunk.js",
+    "static/js/2.47cbaff1.chunk.js.map": "/maniraj0601/login-app/static/js/2.47cbaff1.chunk.js.map",
+    "static/js/3.6fa398dd.chunk.js": "/maniraj0601/login-app/static/js/3.6fa398dd.chunk.js",
+    "static/js/3.6fa398dd.chunk.js.map": "/maniraj0601/login-app/static/js/3.6fa398dd.chunk.js.map",
+    "index.html": "/maniraj0601/login-app/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/maniraj0601/login-app/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.178262c7.chunk.css.map": "/maniraj0601/login-app/static/css/main.178262c7.chunk.css.map",
+    "static/js/2.47cbaff1.chunk.js.LICENSE.txt": "/maniraj0601/login-app/static/js/2.47cbaff1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c03aad8.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.47cbaff1.chunk.js",
+    "static/css/main.178262c7.chunk.css",
+    "static/js/main.0a3491d6.chunk.js"
+  ]
+}
