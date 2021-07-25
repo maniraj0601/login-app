@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/maniraj0601/login-app/static/css/main.178262c7.chunk.css",
-    "main.js": "/maniraj0601/login-app/static/js/main.e971045b.chunk.js",
-    "main.js.map": "/maniraj0601/login-app/static/js/main.e971045b.chunk.js.map",
+    "main.js": "/maniraj0601/login-app/static/js/main.b4ecdb36.chunk.js",
+    "main.js.map": "/maniraj0601/login-app/static/js/main.b4ecdb36.chunk.js.map",
     "runtime-main.js": "/maniraj0601/login-app/static/js/runtime-main.4c03aad8.js",
     "runtime-main.js.map": "/maniraj0601/login-app/static/js/runtime-main.4c03aad8.js.map",
     "static/css/2.4be38407.chunk.css": "/maniraj0601/login-app/static/css/2.4be38407.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.47cbaff1.chunk.js",
     "static/css/main.178262c7.chunk.css",
-    "static/js/main.e971045b.chunk.js"
+    "static/js/main.b4ecdb36.chunk.js"
   ]
 }
