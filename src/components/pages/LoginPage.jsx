@@ -57,7 +57,7 @@ const LoginPage = () => {
       } else setErrors({ noRecord: "Invalid login credentials!!!" });
     }
   };
-  console.log(errors, "errors");
+
   return (
     <>
       {user && user.isLoggedIn ? (
