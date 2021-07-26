@@ -23,7 +23,6 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/maniraj0601/login-app",
   "eslintConfig": {
     "extends": [
       "react-app",
